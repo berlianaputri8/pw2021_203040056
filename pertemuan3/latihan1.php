@@ -4,7 +4,7 @@
     Berliana Putri
     203040056
     github.com/berlianaputri8/pw2021_203040056
-    Pertemuan 3 (8 Januari 2021)
+    Pertemuan 3 (8 Februari 2021)
     Materi minggu ini mempelajari mengenai pengulangan dan pengkondisian / percabangan
 
 */
