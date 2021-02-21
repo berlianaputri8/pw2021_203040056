@@ -4,7 +4,7 @@
     Berliana Putri
     203040056
     github.com/berlianaputri8/pw2021_203040056
-    Pertemuan 5 (15 Februari 2021)
+    Pertemuan 6 (15 Februari 2021)
     Materi minggu ini mempelajari mengenai review Array dan Associative Array
 
 */
