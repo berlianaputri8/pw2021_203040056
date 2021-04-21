@@ -1,0 +1,15 @@
+h2{
+    font-family: "garamond";
+}
+
+.navbar{
+    background-color: rgb(179, 132, 72);
+}
+
+.container{
+    background-color: rgb(243, 203, 150);
+}
+
+thead{
+    background-color: rgb(179, 132, 72);
+}
