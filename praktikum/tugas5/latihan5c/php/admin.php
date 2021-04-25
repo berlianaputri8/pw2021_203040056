@@ -48,7 +48,7 @@ $mobil = query("SELECT * FROM mobil")
                 <tr>
                     <td><?= $i ?></td>
                     <td>
-                        <img src="../assets/img/ <?= $mb["picture"]; ?>">
+                        <img src="../assets/img/<?= $mb["picture"]; ?>">
                     </td>
                     <td>
                         <a href="" class="waves-effect brown lighten-2 btn"><i class="material-icons">undo</i>Ubah</a>

@@ -30,7 +30,6 @@ $mobil = query("SELECT * FROM mobil")
             <tr>
                 <th>No</th>
                 <th>Picture</th>
-                <th>Opsi</th>
                 <th>Type</th>
                 <th>Power</th>
                 <th>Acceleration</th>
@@ -46,10 +45,6 @@ $mobil = query("SELECT * FROM mobil")
                     <td><?= $i ?></td>
                     <td>
                         <img src="assets/img/<?= $mb["picture"]; ?>">
-                    </td>
-                    <td>
-                        <a href="ubah.php?id=<?= $mb['id'] ?>" class="waves-effect brown lighten-2 btn"><i class="material-icons">undo</i>Ubah</a>
-                        <a href="hapus.php?id=<? $mb['id'] ?>" onclick="return confirm('Hapus Data??')" class="waves-effect brown lighten-2 btn"><i class="material-icons">delete</i>Hapus</a>
                     </td>
                     <td><?= $mb["name"]; ?></td>
                     <td><?= $mb["power"]; ?></td>
