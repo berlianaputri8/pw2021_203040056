@@ -157,7 +157,7 @@ function ubah($data)
                 nama = '$nama',
                 hp = '$hp',
                 golongan = '$golongan',
-                gaji = '$gaji';
+                gaji = '$gaji',
                 gambar = '$gambar'
               WHERE id = '$id'; 
             ";
