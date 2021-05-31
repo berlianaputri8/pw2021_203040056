@@ -208,7 +208,7 @@
 
     <div class="parallax-container" style="height:auto;">
       <div class="parallax" style="filter: grayscale(1);
-    opacity: 0.5 !important;"><img src="assets/img/paralax.jpg"></div>
+opacity: 0.5 !important;"><img src="assets/img/paralax.jpg"></div>
         <div class="container">
             <div class="col s12 " style="font-family: 'Playfair Display', serif;" ><h2><center>Service MiNI</center></h2></div>
             <div class="row ">
